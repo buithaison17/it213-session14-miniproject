@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fc7dbb7e-4e74-400d-87cf-faf20101585d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Record" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.1915955456610168E-65" />
+      <entry key="MS500" value="1.750346618536695E-13" />
+      <entry key="S2" value="0.001086177258944518" />
+      <entry key="S5" value="0.09883844071125023" />
+      <entry key="S10" value="0.44459974185424755" />
+      <entry key="S30" value="1.2115493950791831" />
+      <entry key="S60" value="1.5566737171535903" />
+      <entry key="M2" value="1.781870375516129" />
+      <entry key="M5" value="3.0460623195922136" />
+      <entry key="M10" value="8.521569211515546" />
+      <entry key="M15" value="15.890806886910333" />
+      <entry key="M30" value="41.37865204896724" />
+      <entry key="H1" value="91.2113431888763" />
+      <entry key="H2" value="155.18398424447565" />
+      <entry key="H4" value="210.2666158145029" />
+      <entry key="D1" value="275.99298550149774" />
+      <entry key="W1" value="289.64625592090135" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0000182799503614" />
+      <entry key="MS500" value="1.1383523181195654" />
+      <entry key="S2" value="2.4485795729688054" />
+      <entry key="S5" value="4.200937636931844" />
+      <entry key="S10" value="5.664085645223708" />
+      <entry key="S30" value="8.140865273449057" />
+      <entry key="S60" value="9.394649235445664" />
+      <entry key="M2" value="10.68371278288474" />
+      <entry key="M5" value="13.610141308230732" />
+      <entry key="M10" value="20.738551518525412" />
+      <entry key="M15" value="30.69159558234606" />
+      <entry key="M30" value="66.83584685250672" />
+      <entry key="H1" value="145.47589368166868" />
+      <entry key="H2" value="253.70798931715257" />
+      <entry key="H4" value="349.81043029385796" />
+      <entry key="D1" value="466.3890297177446" />
+      <entry key="W1" value="490.78842352647155" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.0036955627435471964" />
+      <entry key="MS500" value="0.3602158785022499" />
+      <entry key="S2" value="1.7670824924546948" />
+      <entry key="S5" value="3.750467403312954" />
+      <entry key="S10" value="5.696694173839603" />
+      <entry key="S30" value="9.127114481481632" />
+      <entry key="S60" value="10.814292971443024" />
+      <entry key="M2" value="12.378912866013803" />
+      <entry key="M5" value="16.600047757896835" />
+      <entry key="M10" value="29.207731772620807" />
+      <entry key="M15" value="46.52657011582359" />
+      <entry key="M30" value="108.15316155040655" />
+      <entry key="H1" value="236.62564875847607" />
+      <entry key="H2" value="408.84157937495644" />
+      <entry key="H4" value="560.0434417118321" />
+      <entry key="D1" value="742.3747462201809" />
+      <entry key="W1" value="780.4335915720972" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3IUxCeGg91n1d8G2Ka6B3bJiUCB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.Build demo.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;Spring Boot.DemoApplication.executor&quot;: &quot;Run&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/it213/session13/demo&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\it213\session13\demo" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="demo.main" />
+      <option name="SHORTEN_COMMAND_LINE" value="ARGS_FILE" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="SHORTEN_COMMAND_LINE" value="ARGS_FILE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc7dbb7e-4e74-400d-87cf-faf20101585d" name="Changes" comment="" />
+      <created>1787832823994</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1787832823994</updated>
+      <workItem from="1787832826152" duration="9633000" />
+      <workItem from="1787882907808" duration="710000" />
+      <workItem from="1787888258529" duration="401000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
