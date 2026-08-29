@@ -1,0 +1,35 @@
+spring:
+  application:
+    name: demo
+  datasource:
+    url: jdbc:postgresql://aws-0-ap-southeast-1.pooler.supabase.com:6543/postgres?prepareThreshold=0
+    username: postgres.hiawculeralenlpxmeiw
+    password: Buithaison@1701
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+        format_sql: true
+  ai:
+    openai:
+      base-url: https://openrouter.ai/api/v1
+      api-key: ${OPEN_ROUTER_API_KEY}
+      chat:
+        model: gpt-oss-20b
+      embedding:
+        model: text-embedding-3-small
+        dimensions: 1536
+    vectorstore:
+      pgvector:
+        distance-type: cosine_distance
+        initialize-schema: true
+        index-type: hnsw
+        dimensions: 1536
+    mcp:
+      server:
+        postgres:
+          connection-string: postgresql://postgres.hiawculeralenlpxmeiw:Buithaison%401701@aws-0-ap-southeast-1.pooler.supabase.com:6543/postgres
